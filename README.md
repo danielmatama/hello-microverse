@@ -43,7 +43,7 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/danielmatama)
+- GitHub: [@danielmatama](https://github.com/danielmatama)
 
 
 <!-- LICENSE -->
