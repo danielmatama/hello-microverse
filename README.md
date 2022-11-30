@@ -1,26 +1,5 @@
 <a name="hello microverse"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-
-
 
 <div align="center">
 
@@ -44,7 +23,7 @@ REQUIRED SECTIONS:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="Hello Microverse"></a>
+# 📖 [Matama's first project] <a name="Hello Microverse"></a>
 
 > Describe your project in 1 or 2 sentences.
 
